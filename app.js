@@ -3,7 +3,7 @@
 
 
 angular.module('OHTApp', [])
-
+    
 .controller('HearingTestCtrl', function(){
     var test = this;
 
